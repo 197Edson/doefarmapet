@@ -1,0 +1,26 @@
+﻿{
+  "short_name": "Doefarmapet",
+  "name": "Doefarmapet - Farmácia Solidária Pet",
+  "description": "Plataforma solidária para doação e redistribuição consciente de medicamentos veterinários.",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.php",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "./",
+  "lang": "pt-BR"
+}
